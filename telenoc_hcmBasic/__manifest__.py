@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "TeleNoc_HCM",
+    'name': "TeleNoc Basic HCM",
 
     'summary': """
         Telenoc HCM is HR  module with all employee management features""",
