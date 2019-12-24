@@ -10,7 +10,7 @@
         related to HR like Employees salary management,leave management,expense management,
         their attendance system,payroll system .It will also help to project management you 
         can manage your running project and also process of hiring of new employees available
-         in this module 
+         in this module .This is basic HRMS Module
     """,
 
     'author': "TeleNoc ",
