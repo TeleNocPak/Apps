@@ -42,7 +42,7 @@
     'demo': [
         'demo/demo.xml',
     ],
-    'images': ['static/description/icon.png'],
+    'images': ['static/description/hcm_basic.png'],
     'license': 'AGPL-3',
     'installable': True,
     'auto_install': False,
